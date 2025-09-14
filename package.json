@@ -1,0 +1,23 @@
+{
+  "name": "proffesianal-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshwaniSharma9668/demo1234.git"
+  },
+  "author": "Ashwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshwaniSharma9668/demo1234/issues"
+  },
+  "homepage": "https://github.com/AshwaniSharma9668/demo1234#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
